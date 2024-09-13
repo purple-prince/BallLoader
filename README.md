@@ -1,6 +1,6 @@
 A fun, colorful, infinitely-repeating SwiftUI loader animation inspired by [this one]([https://www.google.com](https://dribbble.com/shots/20298723-Loader-animation)).
 
-<img src="[./assets/image.gif](https://github.com/purple-prince/BallLoader/blob/6280bfb9499ed049a9c1d78b4a61e954678f37ee/demo_media/demo1.gif)" width="50%" height="50%"/>
+![Demo video](https://github.com/purple-prince/BallLoader/blob/6280bfb9499ed049a9c1d78b4a61e954678f37ee/demo_media/demo1.gif)
 
 Supports a few customizable parameters:
 
