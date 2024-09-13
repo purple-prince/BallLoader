@@ -2,7 +2,7 @@ A fun, colorful, infinitely-repeating SwiftUI loader animation inspired by [this
 
 Supports a few customizable parameters:
 
-- Duration
+- Duration/Speed
 - Primary & Secondary Colors
 - Bounce Effect, Spring Effect
 
